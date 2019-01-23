@@ -1,0 +1,1 @@
+package com.geetion.xUtil;import org.xutils.ex.HttpException;/** * Created by Beary on 15/11/24. */public abstract class BaseActionCallBack {    /**     * 以下三个状态是访问接口必定会有的，故均需要复写     */    public abstract void onSuccess(String msg);    public abstract void onFailure(HttpException error, String msg);    public abstract void onNetWorkError();}

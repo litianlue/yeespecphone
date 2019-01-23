@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\dialog_login.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\dialog_login.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_setting.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_setting.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\ray_menu.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\ray_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_webview.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\dialog_ap_delay.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\dialog_ap_delay.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\ray_menu.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\ray_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\dialog_login.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\dialog_login.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_master.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_master.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_photo_album.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_photo_album.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\item_setting_button.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\item_setting_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_webview.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_master.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_master.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\item_setting_button.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\item_setting_button.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_image.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_image.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_photo_album.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_photo_album.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\autofocuspop_window.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\autofocuspop_window.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\dialog_ap_delay.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\dialog_ap_delay.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\activity_image.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\activity_image.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xxhdpi-v4\\autofocuspop_window.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xxhdpi\\autofocuspop_window.xml"
+    }
+]

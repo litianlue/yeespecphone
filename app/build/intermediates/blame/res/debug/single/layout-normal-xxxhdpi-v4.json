@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-xxxhdpi-v4\\activity_master.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-normal-xxxhdpi\\activity_master.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-xxxhdpi-v4\\activity_master.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-normal-xxxhdpi\\activity_master.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-xxxhdpi-v4\\dialog_login.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-normal-xxxhdpi\\dialog_login.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-xxxhdpi-v4\\dialog_login.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-normal-xxxhdpi\\dialog_login.xml"
+    }
+]

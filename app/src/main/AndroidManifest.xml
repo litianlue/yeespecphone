@@ -1,0 +1,161 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.geetion.microscope_android">
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS" />
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <application
+        android:name=".application.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_microscope_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activity.SplashActivity"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            android:name="android.intent.category.LAUNCHER"/>
+        </activity>
+        <activity
+            android:name=".activity.RemotePhotoAlbumActivity"
+            android:screenOrientation="landscape"></activity>
+        <activity
+            android:name=".activity.LoginActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden|adjustPan">
+
+
+        </activity>
+        <activity
+            android:name=".activity.SelectClientActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+        <activity
+            android:name=".activity.MytestActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <!--主activity-->
+        <activity
+            android:name=".activity.MasterActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity
+            android:name=".activity.PhotoAlbumActivity"
+            android:screenOrientation="landscape"></activity>
+        <activity
+            android:name=".activity.SettingActivity"
+            android:screenOrientation="landscape"></activity>
+        <activity
+            android:name=".activity.ReColourActivity"
+            android:screenOrientation="landscape"></activity>
+
+
+        <activity
+            android:name=".activity.ImageActivity"
+            android:label="@string/title_activity_image"
+            android:screenOrientation="landscape"></activity>
+
+
+        <activity
+            android:name=".activity.WebViewActivity"
+            android:screenOrientation="landscape"></activity>
+
+        <activity
+            android:name=".activity.AboutActivity"
+            android:screenOrientation="landscape"></activity>
+
+        <activity
+            android:name=".activity.AutoPhotoActivity"
+            android:screenOrientation="landscape"></activity>
+
+        <activity
+            android:name=".activity.BatteryAlertActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape"
+            android:theme="@style/Transparent_AppTheme"></activity>
+        <!-- 反馈组件（需要加入以下声明）START -->
+        <activity android:name="com.avos.avoscloud.feedback.ThreadActivity"></activity>
+        <activity
+            android:name=".activity.SelectConnectActivity"
+            android:screenOrientation="landscape"></activity>
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <service
+            android:name=".service.CheckBatteryService"
+            android:enabled="true"
+            android:exported="false">
+
+            <intent-filter>
+                <action android:name="com.geetion.microscope_android.service.CheckBatteryService" />
+            </intent-filter>
+        </service>
+        // LiveQuery 需要依赖实时通信模块，所以需要在 AndroidManifest.xml 文件里面配置如下内容：
+        <!-- 实时通信模块、推送、LiveQuery（均需要加入以下声明） START -->
+        <!-- 实时通信模块、推送都要使用 PushService -->
+        <service android:name="com.avos.avoscloud.PushService" />
+        <receiver android:name="com.avos.avoscloud.AVBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <activity
+            android:name=".activity.ServiceConnectWifiAcitivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+        <service android:name=".service.MasterService"
+            android:permission="1000"
+            />
+    </application>
+
+</manifest>

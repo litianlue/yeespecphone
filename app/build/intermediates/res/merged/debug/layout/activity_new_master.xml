@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/camera_view_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:activity="com.geetion.microscope.master.activity.MasterActivity"
+    tools:ignore="MergeRootFrame">
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></FrameLayout>
+
+    <!--<FrameLayout-->
+    <!--android:id="@+id/ad_parent"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="top|center_horizontal"-->
+    <!--android:layout_marginTop="@dimen/half_padding"-->
+    <!--android:gravity="top" >-->
+    <!--</FrameLayout>-->
+
+
+    <RelativeLayout
+        android:id="@+id/prohibit_View"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/jinzhi" />
+    </RelativeLayout>
+    <!--<FrameLayout-->
+    <!--android:id="@+id/operation_ios_brightness"-->
+    <!--android:layout_width="140dp"-->
+    <!--android:layout_height="160dp"-->
+    <!--android:layout_centerInParent="true"-->
+    <!--android:background="@drawable/toast_background"-->
+    <!--android:orientation="horizontal"-->
+    <!--android:padding="0dip"-->
+    <!--android:visibility="invisible">-->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/operation_bg"-->
+    <!--android:layout_width="64dp"-->
+    <!--android:layout_height="64dp"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_marginTop="24dp"-->
+    <!--android:src="@mipmap/brightness" />-->
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom|center_horizontal"-->
+    <!--android:paddingBottom="14dp">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/text_content"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="86"-->
+    <!--android:textColor="#484848"-->
+    <!--android:textSize="28sp" />-->
+    <!--</FrameLayout>-->
+    <!--</FrameLayout>-->
+</RelativeLayout>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_feedback_dev_reply_background.9.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable-mdpi\\avoscloud_feedback_dev_reply_background.9.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_feedback_dev_reply_background.9.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable-mdpi\\avoscloud_feedback_dev_reply_background.9.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_search_actionbar_back.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable-mdpi\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_search_actionbar_back.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable-mdpi\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable-mdpi\\avoscloud_feedback_thread_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable-mdpi\\avoscloud_feedback_thread_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_feedback_notification.9.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable-mdpi\\avoscloud_feedback_notification.9.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_feedback_notification.9.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable-mdpi\\avoscloud_feedback_notification.9.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_feedback_user_reply_background.9.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable-mdpi\\avoscloud_feedback_user_reply_background.9.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\avoscloud_feedback_user_reply_background.9.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable-mdpi\\avoscloud_feedback_user_reply_background.9.png"
+    }
+]

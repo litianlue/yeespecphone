@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 68,
+                        "endOffset": 224
+                    }
+                }
+            }
+        ]
+    }
+]

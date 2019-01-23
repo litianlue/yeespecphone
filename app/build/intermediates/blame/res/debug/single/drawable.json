@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_black.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_black.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avoscloud_search_result_open_background.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable\\avoscloud_search_result_open_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avoscloud_search_result_open_background.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable\\avoscloud_search_result_open_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avoscloud_feedback_actionbar_background.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable\\avoscloud_feedback_actionbar_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avoscloud_feedback_actionbar_background.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable\\avoscloud_feedback_actionbar_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_time_update.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\bg_time_update.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_white.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_setting_gray.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\item_bg_setting_gray.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_background.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\toast_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avoscloud_search_actionbar_back.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\storage_seekbar_style.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\storage_seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\composer_icn_plus.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\composer_icn_plus.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\electricity_seekbar_style.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\electricity_seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\composer_icn_plus.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\composer_icn_plus.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_normal.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\radio_normal.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_white.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_white.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\radio.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_blue.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_blue.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\select.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\radio.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_setting_little_gray.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\item_bg_setting_little_gray.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\storage_seekbar_style.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\storage_seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_content_bg_red.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\photo_content_bg_red.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable\\avoscloud_feedback_thread_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_background.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\toast_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avoscloud_search_actionbar_back.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-search\\v4.4.4\\res\\drawable\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_green.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_green.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\explosion.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\explosion.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_content_bg_white.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\photo_content_bg_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\select.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_camera_operate.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\bg_camera_operate.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_setting_little_gray.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\item_bg_setting_little_gray.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_purple.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_purple.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_time_update.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\bg_time_update.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\radio_checked.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compound.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\compound.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_setting_white.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\item_bg_setting_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_content_bg_red.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\photo_content_bg_red.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\composer_button.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\composer_button.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_setting_white.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\item_bg_setting_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_btn_light_black.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_btn_light_black.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\target_computer.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\target_computer.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_black.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_black.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_green.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_green.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_s_black.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_s_black.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\target_computer.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\target_computer.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\composer_button.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\composer_button.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_s_black.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_s_black.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recolor_setting_bg.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\recolor_setting_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_purple.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_purple.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\explosion.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\explosion.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg_setting_gray.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\item_bg_setting_gray.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\electricity_seekbar_style.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\electricity_seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_setting_light_blue.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_setting_light_blue.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recolor_setting_bg.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\recolor_setting_bg.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_content_bg_white.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\photo_content_bg_white.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_normal.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\radio_normal.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compound.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\compound.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bg_btn_light_black.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\icon_bg_btn_light_black.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\cn.leancloud.android\\avoscloud-feedback\\v4.4.4\\res\\drawable\\avoscloud_feedback_thread_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\drawable\\radio_checked.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_camera_operate.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\drawable\\bg_camera_operate.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    }
+]

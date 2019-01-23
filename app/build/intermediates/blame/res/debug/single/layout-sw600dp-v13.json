@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_webview.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\ray_menu.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\ray_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_image.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_image.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_image.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_image.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\card_item.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\card_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_webview.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\item_setting_button.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\item_setting_button.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\dialog_ap_delay.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\dialog_ap_delay.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\autofocuspop_window.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\autofocuspop_window.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\auto_photo.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\auto_photo.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_login.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\dialog_login.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\dialog_login.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_master.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_master.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\autofocuspop_window.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\autofocuspop_window.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\card_item.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\card_item.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\ray_menu.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\ray_menu.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_photo_album.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_photo_album.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\auto_photo.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\auto_photo.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\dialog_ap_delay.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\dialog_ap_delay.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\dialog_login.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\dialog_login.xml"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_master.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_master.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\item_setting_button.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\item_setting_button.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_photo_album.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_photo_album.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_login.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-sw600dp\\activity_login.xml"
+    }
+]

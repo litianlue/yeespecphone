@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BLACK"
+    android:orientation="vertical">
+
+    <!--<RelativeLayout-->
+        <!--android:id="@+id/title_bar"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="48dp"-->
+        <!--android:background="@color/title_color">-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/btn_return"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_alignParentLeft="true"-->
+            <!--android:drawableLeft="@mipmap/icon_return"-->
+            <!--android:drawablePadding="18dp"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:paddingLeft="12dp"-->
+            <!--android:paddingRight="12dp"-->
+            <!--android:text="返回"-->
+            <!--android:textColor="@color/WHITE"-->
+            <!--android:textSize="18sp" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/title"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_centerInParent="true"-->
+            <!--android:gravity="center"-->
+            <!--android:text="Title"-->
+            <!--android:textColor="@color/WHITE"-->
+            <!--android:textSize="22sp" />-->
+
+    <!--</RelativeLayout>-->
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:minHeight="200dp">
+
+        <!--<ImageView-->
+            <!--android:id="@+id/play_btn"-->
+            <!--android:layout_width="100dp"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:visibility="gone"-->
+            <!--android:src="@mipmap/biz_video_list_play_icon_big" />-->
+
+        <com.android.tedcoder.wkvideoplayer.view.SuperVideoPlayer
+            android:id="@+id/video_player_item_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></com.android.tedcoder.wkvideoplayer.view.SuperVideoPlayer>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/operation_volume_brightness"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:background="#00000000"
+        android:orientation="horizontal"
+        android:padding="0dip"
+        android:visibility="invisible">
+
+        <ImageView
+            android:id="@+id/operation_bg"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:src="@mipmap/video_volumn_bg" />
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:paddingBottom="12dip" >
+
+            <ImageView
+                android:id="@+id/operation_full"
+                android:layout_width="80dp"
+                android:layout_height="3dp"
+                android:layout_gravity="left"
+                android:scaleType="fitXY"
+                android:src="@mipmap/video_num_bg" />
+
+            <ImageView
+                android:id="@+id/operation_percent"
+                android:layout_width="0dip"
+                android:layout_height="3dp"
+                android:layout_gravity="left"
+                android:scaleType="fitXY"
+                android:src="@mipmap/video_num_front" />
+        </FrameLayout>
+    </FrameLayout>
+
+</RelativeLayout>

@@ -1,0 +1,5 @@
+include ':app', ':MPChartLib', ':x264encoder'
+include ':googlemediaframework'
+//include ':GeetionCore'
+
+//project(':GeetionCore').projectDir = new File('F:\\yeespec\\GeetionCore-2.0\\GeetionCore', 'GeetionCore')

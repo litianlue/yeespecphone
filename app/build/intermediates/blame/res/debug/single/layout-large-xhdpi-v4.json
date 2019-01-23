@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xhdpi-v4\\dialog_login.xml",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xhdpi\\dialog_login.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-xhdpi-v4\\dialog_login.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\layout-large-xhdpi\\dialog_login.xml"
+    }
+]

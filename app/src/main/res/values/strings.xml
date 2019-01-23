@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">YEESPEC</string>
+
+    <string name="setting_turn_off">关机</string>
+    <string name="setting_light_color">灯光着色设置</string>
+    <string name="setting_camera_select">连接相机</string>
+    <string name="setting_wifi_select">连接WIFI</string>
+    <string name="setting_software_update">软件更新</string>
+    <string name="setting_about_us">关于我们</string>
+
+    <string name="system_alter">System tips</string>
+    <string name="wifi_connect_tip">The network is not connected, open set up WiFi？</string>
+    <string name="return_tip">return</string>
+    <string name="setting">setting</string>
+
+    <!-- 主机扫描 -->
+    <string name="found_lan_hosts">Found %d host in LAN</string>
+    <string name="host_list">Host list</string>
+    <string name="title_activity_image">ImageActivity</string>
+
+    <string name="vitamio_theme_app_name">VPlayer codec</string>
+    <string name="VideoView_error_title">Cannot play video</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to
+		this device.</string>
+    <string name="VideoView_error_text_unknown">对不起,这个视频不能播放。</string>
+    <string name="VideoView_error_button">OK</string>
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+
+    <string name="init_decoders">正在进行第一次解压解码包...</string>
+    <string name="loadinfo">载入中，请稍后...</string>
+    <string name="file_oper">文件操作</string>
+    <string name="file_rename">重命名</string>
+    <string name="file_rename_failed">重命名失败</string>
+    <string name="file_rename_exists">文件已存在</string>
+    <string name="file_delete">删除</string>
+    <string name="file_delete_confirm">确定删除 (%s) ？</string>
+    <string name="video_layout_loading">正在缓冲...</string>
+
+    <string name="really_shutdown">是否关机?</string>
+    <string name="yes">关机</string>
+    <string name="no">取消</string>
+
+
+</resources>

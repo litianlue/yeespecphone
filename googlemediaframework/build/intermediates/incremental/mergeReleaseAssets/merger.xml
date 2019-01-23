@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\project\yeespec\Microscope_android-master\googlemediaframework\src\main\assets"/><source path="D:\project\yeespec\Microscope_android-master\googlemediaframework\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\project\yeespec\Microscope_android-master\googlemediaframework\src\release\assets"/></dataSet></merger>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\scaleplate3.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\scaleplate3.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\plate.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\plate.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\convergence_rate.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\convergence_rate.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\scaleplate3.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\scaleplate3.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\petridish.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\petridish.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\petridish.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\petridish.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\plate.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\plate.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_microscope_launcher.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_microscope_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\convergence_rate.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\convergence_rate.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_microscope_launcher.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_microscope_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

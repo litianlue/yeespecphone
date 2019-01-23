@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="540dp"
+    android:background="@drawable/toast_background"
+    android:layout_height="220dp">
+    <FrameLayout
+        android:id="@+id/framezerofl"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:layout_height="match_parent"/>
+    <RelativeLayout
+        android:id="@+id/writerrl"
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/saturation_white"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:src="@mipmap/light"
+            android:background="#fff"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/frameonefl"
+        android:layout_width="0dp"
+        android:visibility="gone"
+        android:layout_weight="1"
+        android:background="#fff"
+
+        android:layout_height="match_parent"/>
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:id="@+id/greenrl"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/saturation_green"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:src="@mipmap/light"
+            android:background="#23b147"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+    <FrameLayout
+        android:id="@+id/frametwofl"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:background="#fff"
+        android:layout_height="match_parent"/>
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:id="@+id/bluerl"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/saturation_blue"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:src="@mipmap/light"
+            android:background="#1c58b1"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+    <FrameLayout
+        android:id="@+id/frametreefl"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:background="#fff"
+        android:layout_height="match_parent"/>
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:id="@+id/purplerl"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/saturation_purple"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+
+            android:src="@mipmap/light"
+            android:background="#cd2ee2"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+    <FrameLayout
+        android:id="@+id/framefourfl"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:background="#fff"
+        android:layout_height="match_parent"/>
+    <RelativeLayout
+        android:id="@+id/blackll"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:layout_height="match_parent">
+        <ImageView
+
+            android:id="@+id/saturation_black"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+
+            android:src="@mipmap/light"
+            android:background="#0b0b0b"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:background="#fff"
+        android:layout_height="match_parent"/>
+</LinearLayout>

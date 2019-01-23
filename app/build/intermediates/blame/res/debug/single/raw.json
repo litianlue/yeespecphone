@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pub.key",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\raw\\pub.key"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camera_click.ogg",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\raw\\camera_click.ogg"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camera_click.ogg",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\raw\\camera_click.ogg"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\libarm.so",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\raw\\libarm.so"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pub.key",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\raw\\pub.key"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\libarm.so",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\raw\\libarm.so"
+    }
+]

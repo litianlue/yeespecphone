@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\jinzhi.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\jinzhi.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_bg.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\jinzhi.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\jinzhi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_black_light_big.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_black_light_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\petridish.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\petridish.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\xiguan.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\xiguan.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\info.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\info.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\contrast.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\contrast.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\xiguan.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\xiguan.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\sd.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\sd.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\wifi_2.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\wifi_2.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\scaleplate3.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\scaleplate3.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_volumn_bg.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\video_volumn_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing4.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing4.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\biz_video_list_play_icon_big.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\biz_video_list_play_icon_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\null_image.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\null_image.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\button2_0.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\button2_0.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\wifi_2.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\wifi_2.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\more.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\more.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\dianchi1.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\dianchi1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_return.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_return.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\lock.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing5.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing5.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\scaleplate2.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\scaleplate2.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\luxiang.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\luxiang.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\wifi_1.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\wifi_1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\carrier.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\carrier.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_pause02.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\wifi_3.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\wifi_3.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_num_bg.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\video_num_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\enlarge.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\enlarge.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_microscope_launcher.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_microscope_launcher.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\play.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\play.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing2.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing2.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\redpoint.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\redpoint.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\button_0.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\button_0.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\null_image.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\null_image.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_play01.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\scaleplate1.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\scaleplate1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_seekbar02.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_white_light.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_white_light.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\scaleplate1.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\scaleplate1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\clock.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\duijiao.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\duijiao.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\sd.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\sd.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_play02.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\bg_time.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\bg_time.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\stop.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mac.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mac.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\dianchi1.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\dianchi1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_number.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_number.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\brightness_bg.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\brightness_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_pause02.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mf_bg.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mf_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\luxiang.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\luxiang.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_num_front.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\video_num_front.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_bg.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mf_bg.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mf_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_num_bg.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\video_num_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\clock.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\scaleplate.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\scaleplate.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\setting.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\brightness.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\brightness.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\dianchi.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\dianchi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\xiangji.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\xiangji.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\button_0.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\button_0.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\lock_wifi.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\lock_wifi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_microscope_launcher.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_microscope_launcher.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\luxiang_s.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\luxiang_s.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\petridish.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\petridish.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\enlarge.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\enlarge.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing1.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\export.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\export.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\wifi_3.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\wifi_3.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\wifi.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\wifi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\scaleplate3.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\scaleplate3.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\brightness_bg.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\brightness_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_none_light_big.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_none_light_big.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mac.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mac.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\biz_video_list_play_icon_big.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\biz_video_list_play_icon_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing4.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing4.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_pause01.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\carrier.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\carrier.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\bofangzhong.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\bofangzhong.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_seekbar02.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\arrow.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_green_light.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_green_light.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\delete.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing6.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing6.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_num_front.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\video_num_front.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\wifi_1.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\wifi_1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing3.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing3.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\about.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\about.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\bofangzhong.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\bofangzhong.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\luxiang_s.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\luxiang_s.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\jingtou.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\jingtou.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\requesagain.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\requesagain.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_green_light.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_green_light.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing5.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing5.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\light.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\light.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ip.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ip.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\info.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\info.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ip.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ip.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\light.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\light.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_return.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_return.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_volumn_bg.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\video_volumn_bg.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\button2_0.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\button2_0.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\play.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\play.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\button2_1.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\button2_1.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\duijiao.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\duijiao.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\shouji.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\shouji.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\stop.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\wifi.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\wifi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\redpoint.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\redpoint.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\close.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\close.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\more.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\more.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_brightness_bg.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\video_brightness_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\close.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\close.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\zhuangtai.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\zhuangtai.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing3.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing3.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_seekbar01.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing6.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing6.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\explode5.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\explode5.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\dianchi.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\dianchi.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_number.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_number.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\plate.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\plate.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\lock.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\about.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\about.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\update.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\update.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\scaleplate.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\scaleplate.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing1.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\jingtou.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\jingtou.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\iso.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\iso.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\brightness.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\brightness.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\scaleplate2.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\scaleplate2.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_white_light.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_white_light.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\zhuangtai.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\zhuangtai.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\contrast.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\contrast.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\focusing2.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\focusing2.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_play02.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\delete.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\button_1.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\button_1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\iso.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\iso.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\video_brightness_bg.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\video_brightness_bg.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\bg_time.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\bg_time.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\plate.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\plate.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\arrow.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\explode5.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\explode5.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\button2_1.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\button2_1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_play01.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\update.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\update.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\lock_wifi.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\lock_wifi.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_seekbar01.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_none_light_big.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_none_light_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_black_light_big.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_black_light_big.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\export.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\export.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\requesagain.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\requesagain.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_none_light.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_none_light.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\xiangji.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\xiangji.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\button_1.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\button_1.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\setting.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_none_light.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\icon_none_light.png"
+    },
+    {
+        "merged": "D:\\project\\yeespec\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\shouji.png",
+        "source": "D:\\project\\yeespec\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\shouji.png"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mediacontroller_pause01.png",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\app\\src\\main\\res\\mipmap-mdpi\\mediacontroller_pause01.png"
+    }
+]

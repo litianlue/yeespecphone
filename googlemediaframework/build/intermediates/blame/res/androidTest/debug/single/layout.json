@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\googlemediaframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\video_surface_layer.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\googlemediaframework\\build\\intermediates\\bundles\\debug\\res\\layout\\video_surface_layer.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\googlemediaframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\playback_control_layer.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\googlemediaframework\\build\\intermediates\\bundles\\debug\\res\\layout\\playback_control_layer.xml"
+    },
+    {
+        "merged": "D:\\ltl\\project\\Microscope_android-master\\googlemediaframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\subtitle_layer.xml",
+        "source": "D:\\ltl\\project\\Microscope_android-master\\googlemediaframework\\build\\intermediates\\bundles\\debug\\res\\layout\\subtitle_layer.xml"
+    }
+]
